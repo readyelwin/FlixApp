@@ -1,5 +1,6 @@
 # FlixApp
 # Flix
+No such module 'AlamofireImage' Is the only error I got
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
